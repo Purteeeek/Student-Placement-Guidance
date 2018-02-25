@@ -18,3 +18,5 @@
 ### Naming conventions to be followed
 1. Please make sure the files you make have a your initials in it if making a cleaned copy of the dataset.
 2. Make sure the code is self explanatory and has comments wherever needed.
+
+**CHECK PROJECTS TAB FOR TO-DO LISTS**
